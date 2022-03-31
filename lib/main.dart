@@ -83,7 +83,7 @@ class _MyHomePageState extends State<MyHomePage> {
           crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           Image.asset('assets/images/Sweet-Bonanza.png'),
-          Image.network('https://www.produkasli.co.id/wp-content/uploads/2020/05/Promo-Ramadhan.jpg'),
+          Image.network("https://www.produkasli.co.id/wp-content/uploads/2020/05/Promo-Ramadhan.jpg"),
           
           Text('Biodata',style: TextStyle(
             fontSize: 40,
